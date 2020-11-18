@@ -11,7 +11,7 @@ build/
 .gradle/
 
 # Signing files
-.signing/
+.signing//
 
 # User-specific configurations
 *.iml
